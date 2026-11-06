@@ -3,37 +3,35 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/XiaoHou517?tab=repositories">我的项目</a>
+  <a href="https://github.com/XiaoHou517?tab=repositories">项目与笔记</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/XiaoHou517?tab=stars">我的收藏</a>
+  <a href="https://github.com/XiaoHou517?tab=stars">工具与资源收藏</a>
 </p>
 
 ## 你好，我是 Xiao Hou 👋
 
-关注 **AI 工具**与**电磁辐射源**相关方向。
+我的专业是 **人工智能**，关注 **AI 工具的实际应用**，也对 **电磁辐射源**相关方向感兴趣。
 
-这里将记录我的工具探索、学习笔记与项目实践。
+希望把专业学习与动手实践结合起来，在这里记录学习笔记、工具体验与项目探索。
 
-Exploring AI tools and electromagnetic sources, one project at a time.
+*My field of study is Artificial Intelligence. I’m interested in practical AI tools and electromagnetic sources.*
 
 ---
 
 ### 关注方向
 
-| 方向 | 计划记录的内容 |
+| 方向 | 想要探索的内容 |
 | :--- | :--- |
-| AI 工具 | 工具体验、使用心得与应用实践 |
-| 电磁辐射源 | 相关知识、资料整理与学习笔记 |
+| 人工智能 | 专业知识的理解、学习笔记与实践 |
+| AI 工具 | 工具体验，以及在学习、编程和资料整理中的应用 |
+| 电磁辐射源 | 相关知识与资料，以及与人工智能结合的可能性 |
 
-### 项目与笔记
+### 学习与实践
 
-内容整理中，后续在这里更新项目与笔记链接。
+把学到的知识整理成笔记，把感兴趣的问题尝试做成小项目，让每一次探索留下可以回顾的记录。
 
-<!-- 有公开作品后，可以将上面一句替换为项目链接和一句话介绍。
-例如：
-- [项目名称](项目链接) — 这个项目解决了什么问题。
--->
+[浏览我的公开仓库 →](https://github.com/XiaoHou517?tab=repositories)
 
 <p align="center">
-  <sub>Thanks for stopping by.</sub>
+  <sub>学习 · 实践 · 分享</sub>
 </p>
